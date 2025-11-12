@@ -25,7 +25,19 @@
 
 ## 📜 Descrição
 
-*Descreva seu projeto com base no texto do PBL (até 600 palavras)*
+# 🚀 PBL - Fase 3: Introdução ao Banco de Dados
+
+Este repositório documenta o projeto desenvolvido para a **Fase 3 do PBL** (Project-Based Learning) do **Cursotiao**.
+
+O objetivo principal desta etapa foi realizar o primeiro contato com bancos de dados, compreendendo sua estrutura, funcionamento e manipulação de dados.
+
+## 🛠️ Ferramentas Utilizadas
+
+* **SGBD:** Oracle
+* **Interface:** SQL Developer
+
+* 
+<img width="2096" height="1265" alt="Captura de tela 2025-11-12 173345" src="https://github.com/user-attachments/assets/6b69af5a-9664-4a3f-9754-fe993116839f" />
 
 
 ## 📁 Estrutura de pastas
